@@ -1,7 +1,7 @@
 # ABOGADOT
 Proyecto ejemplo de la toma de requerimiento para iniciar un proyecto de diseño WEB
 
-En este repositorio se encuentran los archivos para empezar el desarrrollo de el siguiente requeriemiento:
+En este repositorio se encuentran los archivos para empezar el desarrrollo de el siguiente requerimientos:
 
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
